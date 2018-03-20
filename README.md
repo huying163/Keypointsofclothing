@@ -1,13 +1,13 @@
-# Critical points of clothing
+Critical points of clothing
 ===
 
-# Description
+Description
 ===
 This is a Alibaba-Tianchi competition for key locations identification, which is issued due to the urgent needs of clothes design.
 we are required to used given train data and predict 3d coordinations of critical points.
 More details will be updated in the following days.
 
-# Time Schedule
+Time Schedule
 ===
 | Stage | Start  | End | Goals |
 | ------------- | ------------- | ------------- | ------------- |
@@ -18,11 +18,11 @@ More details will be updated in the following days.
 | 4th Week | 08/04/18  | 15/04/18 | Submission due on Apr 19 |
 | 5th Week | 17/04/18  | 22/04/18 | Start second round competition |
 
-# Used Technology
+Used Technology
 ===
 - Deep learning: FastCNN
 - Language: Python
 
-# License
+License
 ===
 See the [LICENSE](https://opensource.org/licenses/MIT) file for license rights and limitations (MIT).
