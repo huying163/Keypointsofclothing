@@ -4,7 +4,9 @@ Critical points of clothing
 Description
 ===
 This is a Alibaba-Tianchi competition for key locations identification, which is issued due to the urgent needs of clothes design.
+
 we are required to used given train data and predict 3d coordinations of critical points.
+
 More details will be updated in the following days.
 
 Time Schedule
